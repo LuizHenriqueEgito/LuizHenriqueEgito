@@ -20,6 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizhenriqueegito&show_icons=true&locale=en&layout=compact" alt="luizhenriqueegito" /></p>
 
+<h3 align="left"> github metrics </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizhenriqueegito&show_icons=true&locale=en" alt="luizhenriqueegito" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizhenriqueegito&" alt="luizhenriqueegito" /></p>
