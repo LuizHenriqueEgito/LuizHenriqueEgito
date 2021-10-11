@@ -4,15 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizhenriqueegito&label=Profile%20views&color=0e75b6&style=flat" alt="luizhenriqueegito" /> </p>
 
 - 🔭 I’m currently working on **Itaú**
-
 - 👯 I’m looking to collaborate on **data science and AI projects**
-
 - 💬 Ask me about **data science, math and economics I'm available to help**
-
 - 📫 How to reach me **luiz_henriquesegito@usp.br**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/luiz-henrique-souza-egito-19b04b191/](https://www.linkedin.com/in/luiz-henrique-souza-egito-19b04b191/)
-
 - ⚡ Fun fact **Atleticano and i like to learn about body language**
 
 <h3 align="left">Connect with me:</h3>
