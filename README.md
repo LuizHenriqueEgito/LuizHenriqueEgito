@@ -53,15 +53,10 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
   
   <!-- Big Data -->
-  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/> </a>
-  <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/> </a>
   
   <!-- Analytics Tools -->
   <a href="https://aws.amazon.com/athena/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Athena" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
-  <a href="https://looker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="Looker" width="40" height="40"/> </a>
   <a href="https://www.metabase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="Metabase" width="40" height="40"/> </a>
 </p>
 
