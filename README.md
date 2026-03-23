@@ -38,6 +38,12 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://jax.readthedocs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="JAX" width="40" height="40"/> </a>
+  <a href="https://flax.readthedocs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/google/flax/main/docs/_static/flax_logo_250px.png" alt="Flax" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
+  <a href="https://pola.rs/" target="_blank"> <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" alt="Polars" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
 </p>
 
 #### Databases & Big Data
