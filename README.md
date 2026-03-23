@@ -39,20 +39,30 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
   <a href="https://jax.readthedocs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="JAX" width="40" height="40"/> </a>
-  <a href="https://flax.readthedocs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/google/flax/main/docs/_static/flax_logo_250px.png" alt="Flax" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
   <a href="https://pola.rs/" target="_blank"> <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" alt="Polars" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
 </p>
 
-#### Databases & Big Data
+#### Databases, Big Data & Analytics
 <p align="left">
+  <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
+  
+  <!-- Big Data -->
   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/> </a>
   <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/> </a>
+  <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/> </a>
+  
+  <!-- Analytics Tools -->
+  <a href="https://aws.amazon.com/athena/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Athena" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
+  <a href="https://looker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" alt="Looker" width="40" height="40"/> </a>
+  <a href="https://www.metabase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="Metabase" width="40" height="40"/> </a>
 </p>
 
 #### Cloud & DevOps
