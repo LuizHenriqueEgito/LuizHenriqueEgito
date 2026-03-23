@@ -1,26 +1,85 @@
 <h1 align="center">Hi 👋, I'm Luiz Henrique</h1>
-<h3 align="center">a data scientist in love with numbers</h3>
+<h3 align="center">Data Scientist | Analytics Engineer | Turning Data into Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizhenriqueegito&label=Profile%20views&color=0e75b6&style=flat" alt="luizhenriqueegito" /> </p>
-
-- 🔭 I’m currently working on **Itaú**
-- 👯 I’m looking to collaborate on **data science and AI projects**
-- 💬 Ask me about **data science, math and economics I'm available to help**
-- 📫 How to reach me **luiz_henriquesegito@usp.br**
-- 📄 Know about my experiences [https://www.linkedin.com/in/luiz-henrique-souza-egito-19b04b191/](https://www.linkedin.com/in/luiz-henrique-souza-egito-19b04b191/)
-- ⚡ Fun fact **Atleticano and i like to learn about body language**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="luiz-henrique-souza-egito-19b04b191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-henrique-souza-egito-19b04b191/" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=luizhenriqueegito&label=Profile%20views&color=0e75b6&style=flat" alt="luizhenriqueegito" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizhenriqueegito&show_icons=true&locale=en&layout=compact" alt="luizhenriqueegito" /></p>
+### 👨‍💻 About Me
 
-<h3 align="left"> github metrics </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizhenriqueegito&show_icons=true&locale=en" alt="luizhenriqueegito" /></p>
+I'm a **Data Scientist** passionate about transforming complex data into actionable business insights. Currently working at **Itaú**, one of the largest banks in Latin America, where I apply data science and analytics to drive strategic decisions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizhenriqueegito&" alt="luizhenriqueegito" /></p>
+- 🔭 **Currently working at:** Itaú (Banking & Financial Services)
+- 🎯 **Interests:** Data Science, Machine Learning, AI, Economics, and Analytics Engineering
+- 🤝 **Open to:** Collaborations on data science and AI projects
+- 💡 **Ask me about:** Python, SQL, AWS, Data Modeling, and Financial Analytics
+- 📫 **Reach me:** [luiz_henriquesegito@usp.br](mailto:luiz_henriquesegito@usp.br)
+- 📄 **Resume:** [LinkedIn Profile](https://www.linkedin.com/in/luiz-henrique-souza-egito-19b04b191/)
+- ⚡ **Fun fact:** Atlético Mineiro fan ⚫⚪ | Passionate about body language and behavioral analysis
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/luiz-henrique-souza-egito-19b04b191/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Core
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+</p>
+
+#### Databases & Big Data
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
+  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/> </a>
+  <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/> </a>
+</p>
+
+#### Cloud & DevOps
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizhenriqueegito&show_icons=true&locale=en&layout=compact&theme=default" alt="luizhenriqueegito" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizhenriqueegito&show_icons=true&locale=en&theme=default" alt="luizhenriqueegito" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizhenriqueegito&theme=default" alt="luizhenriqueegito" />
+</p>
+
+---
+
+### 🎯 Professional Focus
+
+- **Data Engineering:** ETL pipelines, data modeling, and query optimization
+- **Machine Learning:** Predictive models, classification, and time series forecasting
+- **Cloud Analytics:** AWS services (S3, Glue, Athena, Redshift)
+- **Business Intelligence:** Translating data into strategic insights for financial services
