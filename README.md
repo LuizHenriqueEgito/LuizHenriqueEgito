@@ -57,15 +57,11 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 #### Data Engineering
 <p align="left">
   <!-- Orchestration -->
-  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="40" height="40"/> </a>
-  <a href="https://dbt.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/> </a>
-  
   <!-- Streaming -->
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/> </a>
   
   <!-- ETL & Workflow -->
   <a href="https://prestodb.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prestodb/prestodb-icon.svg" alt="Presto" width="40" height="40"/> </a>
-  <a href="https://trino.io/" target="_blank"> <img src="https://trino.io/assets/images/trino-logo/trino-logo.svg" alt="Trino" width="40" height="40"/> </a>
   <a href="https://www.dremio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dremio/dremio-icon.svg" alt="Dremio" width="40" height="40"/> </a>
   
   <!-- Data Warehousing -->
@@ -77,7 +73,6 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 #### Programming Languages
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
