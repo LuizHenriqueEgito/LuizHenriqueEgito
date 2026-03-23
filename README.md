@@ -48,16 +48,10 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 #### Databases, Big Data & Analytics
 <p align="left">
   <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>
-  
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a  
   <!-- Big Data -->
   <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/> </a>
-  
   <!-- Analytics Tools -->
-  <a href="https://aws.amazon.com/athena/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Athena" width="40" height="40"/> </a>
-  <a href="https://www.metabase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="Metabase" width="40" height="40"/> </a>
 </p>
 
 #### Cloud & DevOps
