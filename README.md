@@ -103,25 +103,6 @@ I'm a **Data Scientist** passionate about transforming complex data into actiona
 
 ---
 
-### 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizhenriqueegito&show_icons=true&locale=en&layout=compact&theme=default" alt="luizhenriqueegito" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizhenriqueegito&show_icons=true&locale=en&theme=default" alt="luizhenriqueegito" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizhenriqueegito&theme=default" alt="luizhenriqueegito" />
-</p>
-
----
-
 ### 🎯 Professional Focus
 
 - **Data Engineering:** ETL pipelines, data modeling, and query optimization
