@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/LuizHenriqueEgito/"><img src="https://img.shields.io/badge/🌐Portfolio-View Projects-blue?style=for-the-badge" alt="Portfolio Thiago Cardoso"></a>
+  <a href="https://github.com/LuizHenriqueEgito/"><img src="https://img.shields.io/badge/🌐Portfolio-View Projects-blue?style=for-the-badge" alt="Portfolio Luiz Egito"></a>
 </div>
 </div>
 
@@ -43,7 +43,7 @@ Supported data preparation, feature engineering, and model evaluation.
 </td>
 <td width="45%" valign="top" align="center">
 
-<img width="400" height="400" alt="Image" src="eu.jfif" />
+<img width="400" height="400" alt="Image" src="images/eu.jfif" />
 
 <p>
   <a href="https://www.linkedin.com/in/luiz-henrique-souza-egito-19b04b191/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
